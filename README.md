@@ -4,6 +4,7 @@
 2. ⚙️ [Tech Stack](#tech-stack)
 3. 🔋 [Features](#features)
 4. 🤸 [Quick Start](#quick-start)
+5. 🌐 [Live Project](#Live-project)
 
 ## <a name="introduction">🤖 Introduction</a>
 
@@ -70,6 +71,6 @@ npm run dev
 
 Open [http://localhost:5173](http://localhost:5173) in your browser to view the project.
 
-## Live Project
+## <a name="Live-project">🌐 Live Project</a>
 
 [See Project](https://peru-stork-891651.hostingersite.com/)
